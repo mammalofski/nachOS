@@ -33,6 +33,11 @@ SimpleThread(int which)
 	printf("*** thread %d looped %d times\n", which, num);
         currentThread->Yield();
     }
+
+
+
+
+
 }
 
 //----------------------------------------------------------------------
